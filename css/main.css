@@ -1180,7 +1180,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #39cbc7;
+  background: #ff52e4;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -1656,7 +1656,7 @@ pre .javascript .function {
   margin-right: 0.15rem;
 }
 .tb-ori-price {
-  font-size: 0.5rem;
+  font-size: 0.8rem;
   color: #9b9b9b;
   line-height: 2rem;
 }
@@ -1672,7 +1672,7 @@ pre .javascript .function {
   transform-origin: center left;
   animation: tb-price-strikethrough 3s cubic-bezier(0.2, 0.8, 0.1, 0.9) forwards infinite;
   position: relative;
-  bottom: 0.94rem;
+  bottom: 0.4rem;
 }
 .tb-sales {
   font-size: 0.5rem;
