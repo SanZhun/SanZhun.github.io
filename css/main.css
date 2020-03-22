@@ -1180,7 +1180,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #ff4fc7;
+  background: #ff9355;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -1694,15 +1694,18 @@ pre .javascript .function {
   color: #fff;
   font-weight: 600;
   line-height: 3.2rem;
-  margin: 0 0.75rem;
+  display: inline-block;
+  width: 70%;
+  margin: 0 2.5%;
 }
 .tb-copy-price {
-  font-size: 1.4rem;
+  font-size: 1.2rem;
   color: #fff;
   font-weight: Bold;
   line-height: 3.2rem;
-  float: right;
-  margin-right: 1.2rem;
+  margin: 0 1%;
+  text-align: center;
+  width: 20%;
   transform: scale(0.9);
   display: inline-block;
   animation: bopB 1s cubic-bezier(0.175, 0.885, 0.32, 1.275) forwards infinite alternate;
